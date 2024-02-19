@@ -1,0 +1,6 @@
+pystray
+PIL
+customtkinter
+windows-toasts
+ctypes
+pyglet
